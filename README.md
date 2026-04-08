@@ -105,7 +105,10 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198523331-05ace360-502b-4569-b9b4-31c60e3cd554.png)
 
 Output:
-NAME:
+![image](https://github.com/25014905/EDM-EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/blob/main/Screenshot%202026-04-08%20142627.png?raw=true)
+![image](https://github.com/25014905/EDM-EX.No.-2.2-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/blob/main/Screenshot%202026-04-08%20142645.png?raw=true)
+
+NAME: MIRDULA D
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
 
